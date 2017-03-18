@@ -3,7 +3,7 @@
 ## Description
 Loads sleep data from Beddit API, modifies it and uploads to Exist.io API.
 
-# Instructions
+## Instructions
 1. Create Exist.io client at http://developer.exist.io/#simple-token-authentication
 2. Acquire the sleep attributes at http://developer.exist.io/#acquire-attributes
 3. Update your Beddit credentials and access token to the script and run it
